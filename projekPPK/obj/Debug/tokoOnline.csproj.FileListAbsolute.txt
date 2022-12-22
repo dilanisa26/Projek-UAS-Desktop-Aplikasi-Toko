@@ -1,0 +1,17 @@
+C:\Users\user x\source\repos\projek-desktop-online-shop\projekPPK\obj\Debug\tokoOnline.csproj.AssemblyReference.cache
+C:\Users\user x\source\repos\projek-desktop-online-shop\projekPPK\obj\Debug\tokoOnline.csproj.SuggestedBindingRedirects.cache
+C:\Users\user x\source\repos\projek-desktop-online-shop\projekPPK\obj\Debug\projekPPK.Form1.resources
+C:\Users\user x\source\repos\projek-desktop-online-shop\projekPPK\obj\Debug\projekPPK.userParent.resources
+C:\Users\user x\source\repos\projek-desktop-online-shop\projekPPK\obj\Debug\projekPPK.adminChildDataView.resources
+C:\Users\user x\source\repos\projek-desktop-online-shop\projekPPK\obj\Debug\projekPPK.adminParent.resources
+C:\Users\user x\source\repos\projek-desktop-online-shop\projekPPK\obj\Debug\projekPPK.formAwal.resources
+C:\Users\user x\source\repos\projek-desktop-online-shop\projekPPK\obj\Debug\projekPPK.adminLogin.resources
+C:\Users\user x\source\repos\projek-desktop-online-shop\projekPPK\obj\Debug\projekPPK.userChildBeli.resources
+C:\Users\user x\source\repos\projek-desktop-online-shop\projekPPK\obj\Debug\projekPPK.userChildSignUp.resources
+C:\Users\user x\source\repos\projek-desktop-online-shop\projekPPK\obj\Debug\projekPPK.userChildViewProduk.resources
+C:\Users\user x\source\repos\projek-desktop-online-shop\projekPPK\obj\Debug\projekPPK.userChildInvoice.resources
+C:\Users\user x\source\repos\projek-desktop-online-shop\projekPPK\obj\Debug\projekPPK.userChildMenu.resources
+C:\Users\user x\source\repos\projek-desktop-online-shop\projekPPK\obj\Debug\projekPPK.adminChildSignUp.resources
+C:\Users\user x\source\repos\projek-desktop-online-shop\projekPPK\obj\Debug\tokoOnline.csproj.GenerateResource.cache
+C:\Users\user x\source\repos\projek-desktop-online-shop\projekPPK\obj\Debug\projekPPK.exe
+C:\Users\user x\source\repos\projek-desktop-online-shop\projekPPK\obj\Debug\projekPPK.pdb
